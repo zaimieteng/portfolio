@@ -16,5 +16,5 @@ Focus areas: Exploratory data analysis · Data cleaning · Statistical modelling
 | [Malignant/benign Breast Mass](https://github.com/zaimieteng/malignantorbenignbreastmass) | Classification of breast mass using k-Nearest Neighbours | R |
 | [Glass Identification](https://github.com/zaimieteng/UCIglassidentification) | Classification of types of glass at a crime scene | R |
 | [Housing Analysis Using R](https://github.com/zaimieteng/housinganalysis) | Prediction of house sales price | R |
-| [Bank Subscription Rate](https://github.com/yourusername/repo) | Short one-line description | R |
-| [Heart Arrhythmia Analysis](https://github.com/yourusername/repo) | Short one-line description | Python |
+| [Bank Subscription Rate](https://github.com/zaimieteng/banksubscriptionrate) | Prediction of likelihood to subscibe to a bank | Python |
+| [Heart Arrhythmia Analysis](https://github.com/zaimieteng/heartarryhthmiaprediction) | Classification of ECG into 5 different categories | Python |
