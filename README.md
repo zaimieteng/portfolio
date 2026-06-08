@@ -3,7 +3,7 @@ An Application Specialist with a background in Chemistry, Biomedial Science, and
 
 ## 🔨 Tools & Skills
 Languages: Python, R, SQL </br>
-Tools: Excel, Jupyter Notebook, R Studio, MySQL </br>
+Tools: Excel, Jupyter Notebook, R Studio, MySQL, Tableau </br>
 Focus areas: Exploratory data analysis · Data cleaning · Statistical modelling · Data visualization </br>
 
 ## 📂 Featured Projects
